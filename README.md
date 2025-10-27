@@ -5,6 +5,7 @@ It takes the zkos proof (in json format), and returns the snark proof going thro
 
 ![diagram](diagram.svg)
 
+TMP: a new release
 
 ## Docs
 
